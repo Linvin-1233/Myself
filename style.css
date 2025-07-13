@@ -6,7 +6,7 @@ body {
     background-size: cover, cover;
     background-position: center, center;
     background-repeat: no-repeat, no-repeat;
-    font-family: 微软雅黑, sans-serif;
+    font-family: "Microsoft YaHei", "微软雅黑", "PingFang SC", "Noto Sans CJK SC", sans-serif;
 }
 
 body.loaded {
