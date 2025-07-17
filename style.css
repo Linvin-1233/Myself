@@ -112,6 +112,15 @@ body.loaded {
     box-shadow: 0 0 12px rgba(255, 1, 1, 0.6);
 }
 
+#discord {
+    background: #5865F2;
+    animation-delay: 0.9s;
+}
+
+#discord:hover {
+    box-shadow: 0 0 12px rgba(88, 101, 242, 0.6);
+}
+
 .contact .btn img {
     width: 20px;
     height: 20px;
