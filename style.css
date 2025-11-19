@@ -130,6 +130,15 @@ body.loaded {
     box-shadow: 0 0 12px rgba(64, 120, 85, 0.6);
 }
 
+#schem {
+    background: #3C5375;
+    animation-delay: 1.3s;
+}
+
+#schem:hover {
+    box-shadow: 0 0 12px rgba(60, 83, 117, 0.6);
+}
+
 .contact .btn img {
     width: 20px;
     height: 20px;
@@ -203,3 +212,13 @@ body.loaded {
     pointer-events: auto;
 }
 
+.Error404 {
+    text-decoration: none;
+    color: #feffef;
+    background-color: orange;
+    padding: 10px 20px;
+    border-radius: 8px;
+    max-width: 150px;
+    width: 90%;
+    margin-top: 50px;
+}
